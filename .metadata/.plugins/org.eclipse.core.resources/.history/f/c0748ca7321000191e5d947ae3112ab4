@@ -1,0 +1,9 @@
+package mode;
+
+public class MallardDuck extends Duck {
+	public MallardDuck() {
+		// TODO Auto-generated constructor stub
+		new Qua
+	}
+
+}

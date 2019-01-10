@@ -1,0 +1,17 @@
+package observer;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		WeatherData weatherData = new WeatherData();
+		CurrentCondtionsDisplay condtionsDisplay = new CurrentCondtionsDisplay(weatherData);
+		
+		weatherData.setMeasurements(23, 45, 67);
+		
+		condtionsDisplay.display();
+
+	}
+
+	
+}

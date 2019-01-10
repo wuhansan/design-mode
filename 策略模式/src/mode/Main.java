@@ -1,0 +1,21 @@
+package mode;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+//		Duck mallar = new MallardDuck();
+//		mallar.performQuack();
+//		mallar.performFly();
+		
+		
+		Duck mallar = new ModeDuck();
+		mallar.performQuack();
+		mallar.performFly();
+
+		Duck model = new ModeDuck();
+		model.setFlyBehavior(new FlyRocketPowered());
+		model.performQuack();
+		model.performFly();
+	}
+}

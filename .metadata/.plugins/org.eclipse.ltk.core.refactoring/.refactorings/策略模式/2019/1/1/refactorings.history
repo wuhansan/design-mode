@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;策略模式&apos; to &apos;mode&apos;&#x0D;&#x0A;- Original project: &apos;策略模式&apos;&#x0D;&#x0A;- Original element: &apos;策略模式/src/策略模式&apos;&#x0D;&#x0A;- Renamed element: &apos;策略模式/src/mode&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;策略模式&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;策略模式" name="mode" qualified="false" references="true" stamp="1546613653221" textual="false" version="1.0"/>
+</session>

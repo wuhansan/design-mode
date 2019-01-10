@@ -1,0 +1,11 @@
+package mode;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Duck mallar = new MallardDuck();
+		
+		mallar.performQuack();
+		mallar.performFly();
+	}
+}

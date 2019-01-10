@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Adaptee"/>
+<fullyQualifiedTypeName name="Target"/>
+<fullyQualifiedTypeName name="Packing"/>
+<fullyQualifiedTypeName name="Wrapper"/>
+<fullyQualifiedTypeName name="Bottle"/>
+<fullyQualifiedTypeName name="Burger"/>
+<fullyQualifiedTypeName name="ColdDrink"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="Item"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="Coke"/>
+<fullyQualifiedTypeName name="Meal"/>
+<fullyQualifiedTypeName name="ChickenBurger"/>
+<fullyQualifiedTypeName name="Pepsi"/>
+<fullyQualifiedTypeName name="VegBurger"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="Observer.Observer"/>
+<fullyQualifiedTypeName name="Observer.DisplayElement"/>
+<fullyQualifiedTypeName name="Observer.Subject"/>
+<fullyQualifiedTypeName name="Observer.WeatherData"/>
+<fullyQualifiedTypeName name="Observer.CurrentConditionDisplay"/>
+<fullyQualifiedTypeName name="java.util.Observer"/>
+<fullyQualifiedTypeName name="observer.DisplayElement"/>
+<fullyQualifiedTypeName name="java.util.Observable"/>
+<fullyQualifiedTypeName name="observer.CurrentCondtionsDisplay"/>
+<fullyQualifiedTypeName name="observer.WeatherData"/>
+<fullyQualifiedTypeName name="observer.Main"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="javax.swing.JButton"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+<fullyQualifiedTypeName name="java.lang.SafeVarargs"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="decorate.CondimentDecorator"/>
+<fullyQualifiedTypeName name="decorate.Espresso"/>
+<fullyQualifiedTypeName name="decorate.HouseBlend"/>
+<fullyQualifiedTypeName name="decorate.Beverage"/>
+<fullyQualifiedTypeName name="decorate.Mocha"/>
+<fullyQualifiedTypeName name="decorate.Soy"/>
+<fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+<fullyQualifiedTypeName name="mode.ModeDuck"/>
+</qualifiedTypeNameHistroy>

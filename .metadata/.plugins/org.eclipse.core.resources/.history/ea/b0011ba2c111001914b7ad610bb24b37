@@ -1,0 +1,8 @@
+package observer;
+
+public class Main {
+	public static void main(String[] args) {
+		CurrentCondtionsDisplay condtionsDisplay = new CurrentCondtionsDisplay(new WeatherData());
+		condtionsDisplay.display();
+	}
+}
